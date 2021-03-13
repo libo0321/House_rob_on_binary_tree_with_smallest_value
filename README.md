@@ -8,6 +8,8 @@ test sample:
 2 4  
 3 5  
 
+should return ： 15 7  
+
 
 6 5  
 7 2 3 4 5 6  
@@ -16,3 +18,5 @@ test sample:
 3 6  
 2 4  
 2 5  
+
+should return ： 22 4    
